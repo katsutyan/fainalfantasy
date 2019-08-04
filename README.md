@@ -10,17 +10,29 @@ Jupiterで実装した。
 
 依存ライブラリ
 
-
+np(version 1.16.4)
+　matplotlib
+ 
 参考サイト等
+
 フーリエ変換、逆変換の考え方については講義資料を参考にした。
+
 実装について
+
 http://tatabox.hatenablog.com/entry/2013/07/20/202705
+
 と
+
 http://www.hello-python.com/2018/02/16/numpyとopencvを使った画像のフーリエ変換と逆変換/
+
 からフーリエ変換・逆変換した画像の出力を参考にした。
+
 http://rasp.hateblo.jp/entry/2016/01/24/204539
 からマウスイベントをどのようにすればいいかを参考にした。
+
 https://qiita.com/KntKnk0328/items/5ef40d9e77308dd0d0a4
-から複数の画像をひとつにして出力する方法を学んだ。
+から複数の画像をひとつにして出力する方法を学んだ
+
+gif。
 
 https://github.com/katsutyan/fainalfantasy/issues/1
